@@ -1,0 +1,6 @@
+product_id,product_name,category,brand,unit_price
+P001,Laptop,Electronics,Dell,55000
+P002,Smartphone,Electronics,Samsung,25000
+P003,Headphones,Electronics,Sony,5000
+P004,Office Chair,Furniture,GreenSoul,8500
+P005,Keyboard,Accessories,Logitech,1500
